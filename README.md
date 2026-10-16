@@ -8,6 +8,12 @@ An automated, high-energy 6-minute video edit of the "Life of Innopolis Universi
 
 ---
 
+## 📺 Watch Final Video
+> **[▶️ Watch / Download Final Rendered Video (133 MB)](YOUR_VIDEO_LINK_HERE)**  
+*(Upload `out/innopolis-6min.mp4` to Google Drive, YouTube, or Yandex Disk and replace the link above)*
+
+---
+
 ## ⚡ Highlights & Features
 
 - **🎬 Seamless Clip Transitions**: Overlapping clip cuts with smooth cross-dissolves, motion blur sweeps, and cubic Bezier audio crossfades for a broadcast-quality feel.
