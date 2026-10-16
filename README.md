@@ -8,9 +8,15 @@ An automated, high-energy 6-minute video edit of the "Life of Innopolis Universi
 
 ---
 
-## 📺 Watch Final Video
-> **[▶️ Watch / Download Final Rendered Video (133 MB)](https://drive.google.com/file/d/1bkbnZTs_SMliLmCp7Za0bgebg0L0vApU/view?usp=drive_link)**  
-*(Rendered and hosted via Google Drive)*
+## 📺 Watch Final Video Player
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1bkbnZTs_SMliLmCp7Za0bgebg0L0vApU/view?usp=drive_link" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d88afbcfe4e.png" alt="Watch Final Video" width="700px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    <br>
+    <h2>▶ Click Here to Play the Final 6-Minute Video (Google Drive)</h2>
+  </a>
+</div>
 
 ---
 
