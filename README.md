@@ -9,8 +9,8 @@ An automated, high-energy 6-minute video edit of the "Life of Innopolis Universi
 ---
 
 ## 📺 Watch Final Video
-> **[▶️ Watch / Download Final Rendered Video (133 MB)](YOUR_VIDEO_LINK_HERE)**  
-*(Upload `out/innopolis-6min.mp4` to Google Drive, YouTube, or Yandex Disk and replace the link above)*
+> **[▶️ Watch / Download Final Rendered Video (133 MB)](https://drive.google.com/file/d/1bkbnZTs_SMliLmCp7Za0bgebg0L0vApU/view?usp=drive_link)**  
+*(Rendered and hosted via Google Drive)*
 
 ---
 
